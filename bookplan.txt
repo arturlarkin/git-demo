@@ -1,3 +1,4 @@
 Java the full reference book
+Next up: Spring Boot in Action
 before:    page 160
 04.28:     page 584
