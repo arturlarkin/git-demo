@@ -1,4 +1,4 @@
 Java the full reference book
-Next up: Spring Boot in Action
+Next up: Spring Boot in Action, MySQL Cookbook
 before:    page 160
 04.28:     page 584
